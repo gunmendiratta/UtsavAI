@@ -1,0 +1,42 @@
+[
+  {
+    "service": "Catering",
+    "vendor_name": "Spice Delights",
+    "base_price": 50000,
+    "min_price": 40000,
+    "max_discount_percent": 20,
+    "availability": "High"
+  },
+  {
+    "service": "Decoration",
+    "vendor_name": "Blossom Events",
+    "base_price": 30000,
+    "min_price": 25000,
+    "max_discount_percent": 15,
+    "availability": "Medium"
+  },
+  {
+    "service": "Photography",
+    "vendor_name": "LensCraft Studio",
+    "base_price": 45000,
+    "min_price": 38000,
+    "max_discount_percent": 16,
+    "availability": "Low"
+  },
+  {
+    "service": "DJ & Music",
+    "vendor_name": "BeatBox Entertainment",
+    "base_price": 20000,
+    "min_price": 15000,
+    "max_discount_percent": 25,
+    "availability": "High"
+  },
+  {
+    "service": "Lighting",
+    "vendor_name": "GlowTech Lights",
+    "base_price": 18000,
+    "min_price": 14000,
+    "max_discount_percent": 22,
+    "availability": "Medium"
+  }
+]
