@@ -1,7 +1,5 @@
 🚀 UtsavAi: Event Cost Estimator & Negotiation Bot
 
-[https://utsavai-h8xrm4bs6o5evr6etjcq68.streamlit.app](https://utsavai-h8xrm4bs6o5evr6etjcq68.streamlit.app)
-
 UtsavAi is an AI-inspired interactive tool designed to help users plan event budgets smartly by:
 
 Estimating event costs based on vendor base prices
